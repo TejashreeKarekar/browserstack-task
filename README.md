@@ -99,18 +99,4 @@ Generated reports are timestamped JSON files in `output/reports/`:
   ]
 }
 
-## 🌐 Supported Browsers (BrowserStack)
-
-- **Chrome** (latest) on Windows 11
-- **Firefox** (latest) on Windows 10
-- **Safari** (latest) on macOS 14
-- **Edge** (latest) on Windows 11
-
-## 📦 Dependencies
-
-See `requirements.txt`:
-- **selenium** – WebDriver automation
-- **requests** – HTTP requests for APIs
-- **beautifulsoup4** – HTML parsing
-- **python-dotenv** – Environment variable management
 
